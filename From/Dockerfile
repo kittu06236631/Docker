@@ -1,1 +1,1 @@
-FROM redahat/ubi9 
+FROM redhat/ubi9-minimal
